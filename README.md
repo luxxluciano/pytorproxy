@@ -1,3 +1,7 @@
+# Tor Proxy Solution
+
+This repository contains a Tor proxy solution implemented using an MVC (Model-View-Controller) architecture. It includes functionality to configure Chrome to use the Tor network as a proxy and a Streamlit dashboard for monitoring and controlling the Tor proxy setup.
+
 ```markdown
 # Tor Proxy Solution
 
